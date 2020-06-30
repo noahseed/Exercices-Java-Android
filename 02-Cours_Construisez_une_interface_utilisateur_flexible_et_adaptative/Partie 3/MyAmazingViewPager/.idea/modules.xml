@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAmazingViewPager.iml" filepath="$PROJECT_DIR$/MyAmazingViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyAmazingViewPager-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyAmazingViewPager-app.iml" group="MyAmazingViewPager/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Partie 3-MyAmazingViewPager.iml" filepath="$PROJECT_DIR$/.idea/modules/Partie 3-MyAmazingViewPager.iml" group="MyAmazingViewPager" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

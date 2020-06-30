@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyNavDrawer.iml" filepath="$PROJECT_DIR$/MyNavDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyNavDrawer-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyNavDrawer-app.iml" group="MyNavDrawer/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Partie 3-MyNavDrawer.iml" filepath="$PROJECT_DIR$/.idea/modules/Partie 3-MyNavDrawer.iml" group="MyNavDrawer" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
